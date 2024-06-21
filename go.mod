@@ -1,4 +1,4 @@
-module EXB-API
+module EBX-API
 
 go 1.22.1
 
